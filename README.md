@@ -26,71 +26,67 @@
 
 ## 🚀 技术栈
 
-<!-- 技能图标 -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,py,java,spring,aws,docker,kubernetes,postgres,mysql,redis,graphql,git,github,figma,vscode" />
 </p>
 
 ## 📊 GitHub 数据
 
-<!-- 统计卡片 -->
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=qq5460168&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=qq5460168&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub 统计" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=qq5460168&theme=radical&hide_border=true" alt="Streak Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=qq5460168&theme=radical&hide_border=true" alt="连续提交天数" />
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qq5460168&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qq5460168&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
-<!-- 奖杯 -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qq5460168&theme=radical&row=2&column=4&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=qq5460168&theme=radical&row=2&column=4&no-frame=true" alt="奖杯" />
 </div>
 
 ## 🎯 项目展示
 
-<!-- 项目卡片 -->
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Project 1</h3>
+      <h3 align="center">个人博客</h3>
       <div align="center">
-        <a href="https://github.com/qq5460168/项目1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=qq5460168&repo=项目1&theme=dark" alt="Project 1" />
+        <a href="https://github.com/qq5460168/blog">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=qq5460168&repo=blog&theme=dark" alt="个人博客" />
         </a>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Project 2</h3>
+      <h3 align="center">在线商店</h3>
       <div align="center">
-        <a href="https://github.com/qq5460168/项目2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=qq5460168&repo=项目2&theme=dark" alt="Project 2" />
+        <a href="https://github.com/qq5460168/online-store">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=qq5460168&repo=online-store&theme=dark" alt="在线商店" />
         </a>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Project 3</h3>
+      <h3 align="center">任务管理工具</h3>
       <div align="center">
-        <a href="https://github.com/qq5460168/项目3">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=qq5460168&repo=项目3&theme=dark" alt="Project 3" />
+        <a href="https://github.com/qq5460168/task-manager">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=qq5460168&repo=task-manager&theme=dark" alt="任务管理工具" />
         </a>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Project 4</h3>
+      <h3 align="center">开源社区平台</h3>
       <div align="center">
-        <a href="https://github.com/qq5460168/项目4">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=qq5460168&repo=项目4&theme=dark" alt="Project 4" />
+        <a href="https://github.com/qq5460168/open-community">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=qq5460168&repo=open-community&theme=dark" alt="开源社区平台" />
         </a>
       </div>
     </td>
@@ -101,7 +97,7 @@
 
 <!-- LeetCode 统计 -->
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/your_leetcode_username?theme=dark&font=Roboto" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/你的LeetCode用户名?theme=dark&font=Roboto" alt="LeetCode统计" />
 </div>
 
 <!-- Spotify 音乐 -->
@@ -111,7 +107,7 @@
 
 <!-- 贡献图 -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qq5460168&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qq5460168&theme=react-dark&hide_border=true&area=true" alt="贡献图" />
 </div>
 
 ## 🎨 设计元素
@@ -122,7 +118,7 @@
 <!-- 访客计数 -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=qq5460168&color=blueviolet&style=flat-square" alt="访客计数" />
-  <img src="https://wakatime.com/badge/user/your_wakatime_id.svg" alt="WakaTime" />
+  <img src="https://wakatime.com/badge/user/your_wakatime_id.svg" alt="WakaTime统计" />
 </div>
 
 <!-- 动态名言 -->
