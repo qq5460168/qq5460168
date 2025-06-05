@@ -27,7 +27,7 @@
 ## 🚀 技术栈
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,py,java,spring,aws,docker,kubernetes,postgres,mysql,redis,graphql,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,py,java,spring,aws,docker,kubernetes,postgres,mysql,redis,graphql,git,github,figma,vscode" alt="技术栈" />
 </p>
 
 ## 📊 GitHub 数据
@@ -35,21 +35,21 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=qq5460168&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub 统计" />
+      <img src="https://github-readme-stats.vercel.app/api?username=qq5460168&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub统计" style="width:600px;" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=qq5460168&theme=radical&hide_border=true" alt="连续提交天数" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=qq5460168&theme=radical&hide_border=true" alt="连续提交天数统计" style="width:600px;" />
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qq5460168&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qq5460168&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="主要编程语言统计" style="width:600px;" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qq5460168&theme=radical&row=2&column=4&no-frame=true" alt="奖杯" />
+  <img src="https://github-profile-trophy.vercel.app/?username=qq5460168&theme=radical&row=2&column=4&no-frame=true" alt="奖杯" style="width:600px;" />
 </div>
 
 ## 🎯 项目展示
@@ -115,7 +115,7 @@
 <!-- 分隔线 -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
 
-<!-- 访客计数 -->
+<!-- 访客计数 和 WakaTime 统计 -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=qq5460168&color=blueviolet&style=flat-square" alt="访客计数" />
   <img src="https://wakatime.com/badge/user/your_wakatime_id.svg" alt="WakaTime统计" />
