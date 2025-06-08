@@ -6,7 +6,7 @@
 
 ---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=qq5460168.qq5460168)
+你是我 ![Visitor Count](https://profile-counter.glitch.me/qq5460168/count.svg) 访客.
 
 ## 🎯 我的项目
 
