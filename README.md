@@ -6,6 +6,8 @@
 
 ---
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=qq5460168.qq5460168)
+
 ## 🎯 我的项目
 
 - [AdGuard 广告拦截规则](https://github.com/qq5460168/Who520)  
